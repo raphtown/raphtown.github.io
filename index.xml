@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atomic Learner</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Atomic Learner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Atomic Learner</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Learning on 3D Protein Structure for Interface Prediction</title>
+      <link>/publication/sasnet/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sasnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forward</title>
+      <link>/project/forward/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/project/forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular mechanism of GPCR-mediated arrestin activation</title>
+      <link>/publication/arrestin/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/arrestin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pool&#43;&#43;</title>
+      <link>/project/pool&#43;&#43;/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/project/pool&#43;&#43;/</guid>
+      <description>&lt;p&gt;Best In Show and People&amp;rsquo;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
+
+&lt;p&gt;This was a father (hardware) and son (software) project done over 2 days.  We
+instrumented a pool table with a LIDAR and an overhead camera — determining the
+precise location of the balls and the cue using computer vision and time of
+flight data.  These coordinates were fed into a physics engine which would
+predict the outcome of the shot, which were in turn drawn onto the table using a
+high-powered laser.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Detection</title>
+      <link>/project/satellite/</link>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/project/satellite/</guid>
+      <description>&lt;p&gt;In this project we used a densely connected graphical model to detect building
+rooftops in satellite imagery. The problem was formulated as a pixel-level image
+segmentation task. Labeled building data was pulled from OpenStreetMap and
+registered to publicly available satellite imagery using standard GIS
+techniques.&lt;/p&gt;
+
+&lt;p&gt;We applied a fully connected conditional random field (CRF)
+defined on the complete set of pixels of an image as proposed by &lt;a href=&#34;https://arxiv.org/abs/1210.5644&#34; target=&#34;_blank&#34;&gt;Krahenbuhl and
+Koltun&lt;/a&gt;, with unary potentials derived from
+Shotton et al.’s
+&lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ijcv07a.pdf&#34; target=&#34;_blank&#34;&gt;TextonBoost&lt;/a&gt;.
+Inference in this model is made tractable by using mean-field approximation and
+Gaussian kernels for the pairwise potentials, allowing for an efficient
+message-passing algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User-driven geolocation of untagged desert imagery using digital elevation models</title>
+      <link>/publication/geolocation/</link>
+      <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/geolocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression Recognition</title>
+      <link>/project/expression/</link>
+      <pubDate>Sat, 15 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/project/expression/</guid>
+      <description>&lt;p&gt;Classified which of 6 expressions (Joy, Sorrow, Disgust, Anger, Surprise, Fear)
+were being displayed in grayscale images of subjects’ faces.&lt;/p&gt;
+
+&lt;p&gt;We trained one-vs-many linear SVMs on Gabor filters applied to the input images.
+We used existing standard datasets (i.e., Cohn-Kanade and JAFFE) as well as a
+self-collected 47-subject dataset: the Berkeley Students and Friends (BSAF).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FutureHand</title>
+      <link>/project/futurehand/</link>
+      <pubDate>Thu, 02 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/project/futurehand/</guid>
+      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&amp;rsquo;s 2009 &lt;a href=&#34;https://www.youtube.com/watch?v=YrtANPtnhyg&#34; target=&#34;_blank&#34;&gt;TED
+talk&lt;/a&gt; on the Sixth Sense device.
+I was interested in exploring novel human computer interfaces and felt that the
+ubiquitous 2-DOF mouse could be augmented to instead operate in 6 dimensions:
+the 3 translational (x, y, z) and the 3 rotational dimensions (yaw, pitch,
+roll).&lt;/p&gt;
+
+&lt;p&gt;The FutureHand is a home-brew inertial measurement unit (IMU) integrated into a
+bluetooth USB device. A pair of gyroscopes were used to capture rapid rotational
+changes, as well as measure the absolute rotations through dead reckoning. An
+accelerometer and magnetometer were used to measure translational changes, as
+well as combined with the gyroscope rotation estimates through complementary
+filters to allow for more accurate absolute rotations.&lt;/p&gt;
+
+&lt;p&gt;The FutureHand was then augmented with a Bluetooth chip, and inserted into a
+custom molded case, allowing for easy use as a 6-DOF mouse. This novel
+controller was integrated into the &lt;a href=&#34;/project/moonweasel/&#34; target=&#34;_blank&#34;&gt;Moonweasel&lt;/a&gt; project, the 3-dimensional space flight simulator, allowing for more
+precise flight control.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;casing.jpg&#34; alt=&#34;futurehand casing&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MoonWeasel</title>
+      <link>/project/moonweasel/</link>
+      <pubDate>Wed, 02 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>/project/moonweasel/</guid>
+      <description>&lt;p&gt;An early project in my programming career, I led a team of half a dozen high
+school students in the writing of a 3D space flight simulator. Different
+subgroups successfully built in multiplayer capabilities, a custom physics
+engine, and 3D models.  Unfortunately, documentation was not our forte, and
+the above image is one of the few records we have remaining.&lt;/p&gt;
+
+&lt;p&gt;The simulator was later integrated into the &lt;a href=&#34;/project/futurehand/&#34; target=&#34;_blank&#34;&gt;FutureHand&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

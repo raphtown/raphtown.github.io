@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Atomic Learner</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>End-to-End Learning on 3D Protein Structure for Interface Prediction</title>
+      <link>/publication/sasnet/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sasnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular mechanism of GPCR-mediated arrestin activation</title>
+      <link>/publication/arrestin/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/arrestin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-driven geolocation of untagged desert imagery using digital elevation models</title>
+      <link>/publication/geolocation/</link>
+      <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/geolocation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

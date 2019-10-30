@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Atomic Learner</title>
+    <link>/tags/computer-vision/</link>
+      <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Computer Vision</title>
+      <link>/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Pool&#43;&#43;</title>
+      <link>/project/pool&#43;&#43;/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/project/pool&#43;&#43;/</guid>
+      <description>&lt;p&gt;Best In Show and People&amp;rsquo;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
+
+&lt;p&gt;This was a father (hardware) and son (software) project done over 2 days.  We
+instrumented a pool table with a LIDAR and an overhead camera — determining the
+precise location of the balls and the cue using computer vision and time of
+flight data.  These coordinates were fed into a physics engine which would
+predict the outcome of the shot, which were in turn drawn onto the table using a
+high-powered laser.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Detection</title>
+      <link>/project/satellite/</link>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/project/satellite/</guid>
+      <description>&lt;p&gt;In this project we used a densely connected graphical model to detect building
+rooftops in satellite imagery. The problem was formulated as a pixel-level image
+segmentation task. Labeled building data was pulled from OpenStreetMap and
+registered to publicly available satellite imagery using standard GIS
+techniques.&lt;/p&gt;
+
+&lt;p&gt;We applied a fully connected conditional random field (CRF)
+defined on the complete set of pixels of an image as proposed by &lt;a href=&#34;https://arxiv.org/abs/1210.5644&#34; target=&#34;_blank&#34;&gt;Krahenbuhl and
+Koltun&lt;/a&gt;, with unary potentials derived from
+Shotton et al.’s
+&lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ijcv07a.pdf&#34; target=&#34;_blank&#34;&gt;TextonBoost&lt;/a&gt;.
+Inference in this model is made tractable by using mean-field approximation and
+Gaussian kernels for the pairwise potentials, allowing for an efficient
+message-passing algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expression Recognition</title>
+      <link>/project/expression/</link>
+      <pubDate>Sat, 15 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/project/expression/</guid>
+      <description>&lt;p&gt;Classified which of 6 expressions (Joy, Sorrow, Disgust, Anger, Surprise, Fear)
+were being displayed in grayscale images of subjects’ faces.&lt;/p&gt;
+
+&lt;p&gt;We trained one-vs-many linear SVMs on Gabor filters applied to the input images.
+We used existing standard datasets (i.e., Cohn-Kanade and JAFFE) as well as a
+self-collected 47-subject dataset: the Berkeley Students and Friends (BSAF).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

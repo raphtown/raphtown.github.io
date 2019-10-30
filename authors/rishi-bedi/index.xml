@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rishi Bedi | Atomic Learner</title>
+    <link>/authors/rishi-bedi/</link>
+      <atom:link href="/authors/rishi-bedi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rishi Bedi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rishi Bedi</title>
+      <link>/authors/rishi-bedi/</link>
+    </image>
+    
+    <item>
+      <title>End-to-End Learning on 3D Protein Structure for Interface Prediction</title>
+      <link>/publication/sasnet/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sasnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
