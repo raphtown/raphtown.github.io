@@ -7,7 +7,7 @@
     <description>Geometry</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Geometry</title>
       <link>/tags/geometry/</link>
     </image>
@@ -18,7 +18,6 @@
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/project/pool&#43;&#43;/</guid>
       <description>&lt;p&gt;Best In Show and People&amp;rsquo;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
-
 &lt;p&gt;This was a father (hardware) and son (software) project done over 2 days.  We
 instrumented a pool table with a LIDAR and an overhead camera — determining the
 precise location of the balls and the cue using computer vision and time of
@@ -33,26 +32,25 @@ high-powered laser.&lt;/p&gt;
       <link>/project/futurehand/</link>
       <pubDate>Thu, 02 Sep 2010 00:00:00 +0000</pubDate>
       <guid>/project/futurehand/</guid>
-      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&amp;rsquo;s 2009 &lt;a href=&#34;https://www.youtube.com/watch?v=YrtANPtnhyg&#34; target=&#34;_blank&#34;&gt;TED
+      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&amp;rsquo;s 2009 
+&lt;a href=&#34;https://www.youtube.com/watch?v=YrtANPtnhyg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED
 talk&lt;/a&gt; on the Sixth Sense device.
 I was interested in exploring novel human computer interfaces and felt that the
 ubiquitous 2-DOF mouse could be augmented to instead operate in 6 dimensions:
 the 3 translational (x, y, z) and the 3 rotational dimensions (yaw, pitch,
 roll).&lt;/p&gt;
-
 &lt;p&gt;The FutureHand is a home-brew inertial measurement unit (IMU) integrated into a
 bluetooth USB device. A pair of gyroscopes were used to capture rapid rotational
 changes, as well as measure the absolute rotations through dead reckoning. An
 accelerometer and magnetometer were used to measure translational changes, as
 well as combined with the gyroscope rotation estimates through complementary
 filters to allow for more accurate absolute rotations.&lt;/p&gt;
-
 &lt;p&gt;The FutureHand was then augmented with a Bluetooth chip, and inserted into a
 custom molded case, allowing for easy use as a 6-DOF mouse. This novel
-controller was integrated into the &lt;a href=&#34;/project/moonweasel/&#34; target=&#34;_blank&#34;&gt;Moonweasel&lt;/a&gt; project, the 3-dimensional space flight simulator, allowing for more
+controller was integrated into the 
+&lt;a href=&#34;/project/moonweasel/&#34;&gt;Moonweasel&lt;/a&gt; project, the 3-dimensional space flight simulator, allowing for more
 precise flight control.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;casing.jpg&#34; alt=&#34;futurehand casing&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;casing.jpg&#34; alt=&#34;futurehand casing&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -66,8 +64,8 @@ school students in the writing of a 3D space flight simulator. Different
 subgroups successfully built in multiplayer capabilities, a custom physics
 engine, and 3D models.  Unfortunately, documentation was not our forte, and
 the above image is one of the few records we have remaining.&lt;/p&gt;
-
-&lt;p&gt;The simulator was later integrated into the &lt;a href=&#34;/project/futurehand/&#34; target=&#34;_blank&#34;&gt;FutureHand&lt;/a&gt; project.&lt;/p&gt;
+&lt;p&gt;The simulator was later integrated into the 
+&lt;a href=&#34;/project/futurehand/&#34;&gt;FutureHand&lt;/a&gt; project.&lt;/p&gt;
 </description>
     </item>
     
