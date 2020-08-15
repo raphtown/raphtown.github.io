@@ -25,7 +25,7 @@
       <link>/project/pool&#43;&#43;/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/project/pool&#43;&#43;/</guid>
-      <description>&lt;p&gt;Best In Show and People&amp;rsquo;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
+      <description>&lt;p&gt;Best In Show and People&#39;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
 &lt;p&gt;This was a father (hardware) and son (software) project done over 2 days.  We
 instrumented a pool table with a LIDAR and an overhead camera — determining the
 precise location of the balls and the cue using computer vision and time of
@@ -76,7 +76,7 @@ self-collected 47-subject dataset: the Berkeley Students and Friends (BSAF).&lt;
       <link>/project/futurehand/</link>
       <pubDate>Thu, 02 Sep 2010 00:00:00 +0000</pubDate>
       <guid>/project/futurehand/</guid>
-      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&amp;rsquo;s 2009 
+      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&#39;s 2009 
 &lt;a href=&#34;https://www.youtube.com/watch?v=YrtANPtnhyg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED
 talk&lt;/a&gt; on the Sixth Sense device.
 I was interested in exploring novel human computer interfaces and felt that the

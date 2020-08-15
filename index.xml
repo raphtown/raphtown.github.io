@@ -24,7 +24,7 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&#39;s 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
@@ -124,7 +124,6 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -158,7 +157,7 @@ Three
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Let&#39;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
 .reveal section h2,
@@ -196,7 +195,7 @@ Three
       <link>/project/pool&#43;&#43;/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/project/pool&#43;&#43;/</guid>
-      <description>&lt;p&gt;Best In Show and People&amp;rsquo;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
+      <description>&lt;p&gt;Best In Show and People&#39;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
 &lt;p&gt;This was a father (hardware) and son (software) project done over 2 days.  We
 instrumented a pool table with a LIDAR and an overhead camera — determining the
 precise location of the balls and the cue using computer vision and time of
@@ -255,7 +254,7 @@ self-collected 47-subject dataset: the Berkeley Students and Friends (BSAF).&lt;
       <link>/project/futurehand/</link>
       <pubDate>Thu, 02 Sep 2010 00:00:00 +0000</pubDate>
       <guid>/project/futurehand/</guid>
-      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&amp;rsquo;s 2009 
+      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&#39;s 2009 
 &lt;a href=&#34;https://www.youtube.com/watch?v=YrtANPtnhyg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED
 talk&lt;/a&gt; on the Sixth Sense device.
 I was interested in exploring novel human computer interfaces and felt that the
