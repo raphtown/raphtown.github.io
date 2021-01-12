@@ -93,6 +93,26 @@
   </url>
   
   <url>
+    <loc>/project/cite_everything/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/misc/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
@@ -193,11 +213,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -209,16 +224,6 @@
   
   <url>
     <loc>/project/forward/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/misc/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
