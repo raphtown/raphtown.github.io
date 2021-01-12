@@ -5,12 +5,20 @@
     <link>/authors/patricia-a.-suriana/</link>
       <atom:link href="/authors/patricia-a.-suriana/index.xml" rel="self" type="application/rss+xml" />
     <description>Patricia A. Suriana</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu915c9182a3e889cb7f1e1670f8982288_179571_512x512_fill_lanczos_center_2.png</url>
       <title>Patricia A. Suriana</title>
       <link>/authors/patricia-a.-suriana/</link>
     </image>
+    
+    <item>
+      <title>ATOM3D: Tasks On Molecules in Three Dimensions</title>
+      <link>/publication/atom3d/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/atom3d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>End-to-End Learning on 3D Protein Structure for Interface Prediction</title>
