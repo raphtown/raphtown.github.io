@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu915c9182a3e889cb7f1e1670f8982288_179571_512x512_fill_lanczos_center_2.png</url>
       <title></title>
@@ -24,14 +24,20 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&#39;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>How GPCR Phosphorylation Patterns Orchestrate Arrestin-Mediated Signaling</title>
+      <link>/publication/phosphorylation/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/phosphorylation/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -48,8 +54,7 @@
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -69,8 +74,7 @@
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
@@ -124,6 +128,7 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -157,7 +162,7 @@ Three
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&#39;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
 .reveal section h2,
@@ -167,10 +172,8 @@ Three
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -195,7 +198,7 @@ Three
       <link>/project/pool&#43;&#43;/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/project/pool&#43;&#43;/</guid>
-      <description>&lt;p&gt;Best In Show and People&#39;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
+      <description>&lt;p&gt;Best In Show and People&amp;rsquo;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
 &lt;p&gt;This was a father (hardware) and son (software) project done over 2 days.  We
 instrumented a pool table with a LIDAR and an overhead camera — determining the
 precise location of the balls and the cue using computer vision and time of
@@ -216,11 +219,9 @@ segmentation task. Labeled building data was pulled from OpenStreetMap and
 registered to publicly available satellite imagery using standard GIS
 techniques.&lt;/p&gt;
 &lt;p&gt;We applied a fully connected conditional random field (CRF)
-defined on the complete set of pixels of an image as proposed by 
-&lt;a href=&#34;https://arxiv.org/abs/1210.5644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Krahenbuhl and
+defined on the complete set of pixels of an image as proposed by &lt;a href=&#34;https://arxiv.org/abs/1210.5644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Krahenbuhl and
 Koltun&lt;/a&gt;, with unary potentials derived from
 Shotton et al.’s
-
 &lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ijcv07a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TextonBoost&lt;/a&gt;.
 Inference in this model is made tractable by using mean-field approximation and
 Gaussian kernels for the pairwise potentials, allowing for an efficient
@@ -254,8 +255,7 @@ self-collected 47-subject dataset: the Berkeley Students and Friends (BSAF).&lt;
       <link>/project/futurehand/</link>
       <pubDate>Thu, 02 Sep 2010 00:00:00 +0000</pubDate>
       <guid>/project/futurehand/</guid>
-      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&#39;s 2009 
-&lt;a href=&#34;https://www.youtube.com/watch?v=YrtANPtnhyg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED
+      <description>&lt;p&gt;The FutureHand was inspired by Pranav Mistry&amp;rsquo;s 2009 &lt;a href=&#34;https://www.youtube.com/watch?v=YrtANPtnhyg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED
 talk&lt;/a&gt; on the Sixth Sense device.
 I was interested in exploring novel human computer interfaces and felt that the
 ubiquitous 2-DOF mouse could be augmented to instead operate in 6 dimensions:
@@ -269,8 +269,7 @@ well as combined with the gyroscope rotation estimates through complementary
 filters to allow for more accurate absolute rotations.&lt;/p&gt;
 &lt;p&gt;The FutureHand was then augmented with a Bluetooth chip, and inserted into a
 custom molded case, allowing for easy use as a 6-DOF mouse. This novel
-controller was integrated into the 
-&lt;a href=&#34;/project/moonweasel/&#34;&gt;Moonweasel&lt;/a&gt; project, the 3-dimensional space flight simulator, allowing for more
+controller was integrated into the &lt;a href=&#34;/project/moonweasel/&#34;&gt;Moonweasel&lt;/a&gt; project, the 3-dimensional space flight simulator, allowing for more
 precise flight control.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;casing.jpg&#34; alt=&#34;futurehand casing&#34;&gt;&lt;/p&gt;
 </description>
@@ -286,8 +285,7 @@ school students in the writing of a 3D space flight simulator. Different
 subgroups successfully built in multiplayer capabilities, a custom physics
 engine, and 3D models.  Unfortunately, documentation was not our forte, and
 the above image is one of the few records we have remaining.&lt;/p&gt;
-&lt;p&gt;The simulator was later integrated into the 
-&lt;a href=&#34;/project/futurehand/&#34;&gt;FutureHand&lt;/a&gt; project.&lt;/p&gt;
+&lt;p&gt;The simulator was later integrated into the &lt;a href=&#34;/project/futurehand/&#34;&gt;FutureHand&lt;/a&gt; project.&lt;/p&gt;
 </description>
     </item>
     

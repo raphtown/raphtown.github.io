@@ -5,12 +5,20 @@
     <link>/authors/scott-a.-hollingsworth/</link>
       <atom:link href="/authors/scott-a.-hollingsworth/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott A. Hollingsworth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu915c9182a3e889cb7f1e1670f8982288_179571_512x512_fill_lanczos_center_2.png</url>
       <title>Scott A. Hollingsworth</title>
       <link>/authors/scott-a.-hollingsworth/</link>
     </image>
+    
+    <item>
+      <title>How GPCR Phosphorylation Patterns Orchestrate Arrestin-Mediated Signaling</title>
+      <link>/publication/phosphorylation/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/phosphorylation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Molecular mechanism of GPCR-mediated arrestin activation</title>

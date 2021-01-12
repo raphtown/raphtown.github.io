@@ -5,7 +5,7 @@
     <link>/tags/computer-vision/</link>
       <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu915c9182a3e889cb7f1e1670f8982288_179571_512x512_fill_lanczos_center_2.png</url>
       <title>Computer Vision</title>
@@ -17,7 +17,7 @@
       <link>/project/pool&#43;&#43;/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/project/pool&#43;&#43;/</guid>
-      <description>&lt;p&gt;Best In Show and People&#39;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
+      <description>&lt;p&gt;Best In Show and People&amp;rsquo;s Choice at San Francisco Science Hack Day 2015.&lt;/p&gt;
 &lt;p&gt;This was a father (hardware) and son (software) project done over 2 days.  We
 instrumented a pool table with a LIDAR and an overhead camera — determining the
 precise location of the balls and the cue using computer vision and time of
@@ -38,11 +38,9 @@ segmentation task. Labeled building data was pulled from OpenStreetMap and
 registered to publicly available satellite imagery using standard GIS
 techniques.&lt;/p&gt;
 &lt;p&gt;We applied a fully connected conditional random field (CRF)
-defined on the complete set of pixels of an image as proposed by 
-&lt;a href=&#34;https://arxiv.org/abs/1210.5644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Krahenbuhl and
+defined on the complete set of pixels of an image as proposed by &lt;a href=&#34;https://arxiv.org/abs/1210.5644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Krahenbuhl and
 Koltun&lt;/a&gt;, with unary potentials derived from
 Shotton et al.’s
-
 &lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ijcv07a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TextonBoost&lt;/a&gt;.
 Inference in this model is made tractable by using mean-field approximation and
 Gaussian kernels for the pairwise potentials, allowing for an efficient
