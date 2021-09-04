@@ -5,7 +5,7 @@
     <link>/authors/bowen-jing/</link>
       <atom:link href="/authors/bowen-jing/index.xml" rel="self" type="application/rss+xml" />
     <description>Bowen Jing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu915c9182a3e889cb7f1e1670f8982288_179571_512x512_fill_lanczos_center_2.png</url>
       <title>Bowen Jing</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Hierarchical, rotation‐equivariant neural networks to select structural models of protein complexes</title>
-      <link>/publication/hierarchical-complexes/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/hierarchical-complexes/</guid>
+      <title>Learning from Protein Structure with Geometric Vector Perceptrons</title>
+      <link>/publication/gvp/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/gvp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning from Protein Structure with Geometric Vector Perceptrons</title>
-      <link>/publication/gvp/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/gvp/</guid>
+      <title>Hierarchical, rotation‐equivariant neural networks to select structural models of protein complexes</title>
+      <link>/publication/hierarchical-complexes/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hierarchical-complexes/</guid>
       <description></description>
     </item>
     
